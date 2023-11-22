@@ -1,6 +1,6 @@
 # ACM_Tutorial
 
-Based on algorithmic problem-solving strategies and techniques, the content is categorized into 46 different folders, including recursion, greedy algorithms, dynamic programming, number theory, fenwick trees, shortest paths, etc. Each category folder contains related problems along with the respective code and methodologies for solving these problems.
+The project involves the analysis and solution of algorithmic problems from online coding platforms like acwing, Luogu, codeforces, Nowcoder, SPOJ, HDU, Atcoder, etc. The content is organized into 46 categories, encompassing various algorithmic techniques such as recursion, greedy algorithms, dynamic programming, number theory, fenwick trees, shortest paths, etc. Each category folder contains relevant problems along with their respective code and solution strategies.
 # 项目声明 Project Statement
 
 本项目的作者及单位
